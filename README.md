@@ -3,7 +3,7 @@ This repo contains a collection of coding exercises and problem-solving tasks ai
 
 ---
 
-# Folder Structure
+# 📁 Folder Structure
 The Assignments in this repo contains the files in following structure.
 
 ```
@@ -18,3 +18,6 @@ logic-building-assignments/
 │   └── README.md
 └── ...
 ```
+# 👤 Author
+- Ritesh Jillewad
+- 07=05-2025
