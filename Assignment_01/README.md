@@ -3,7 +3,7 @@
 # 📂 List of Programs
 
 ### `1. Divide.c`
-Problem Statement: Program to divide two numbers.
+Problem Statement: Program to divide two numbers.<br>
 Description: This program performs division of two integers using a separate function.
 
 #### Algorithm
