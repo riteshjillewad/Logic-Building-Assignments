@@ -2,14 +2,20 @@
 
 # 📂 List of Programs
 
-### `1. Divide.c`
-Problem Statement: Program to divide two numbers.<br>
-Description: This program performs division of two integers using a separate function.
+### `1. question_1.c`
+**📝 Problem Statement**: Program to divide two numbers.<br>
+**📌 Description**: This program performs the division of two integers using a user-defined function. It includes a check to prevent division by zero.
 
 #### Algorithm
 ```
-Accepts two integers.
-Checks for division by zero and handles it safely by returning -1.
-Otherwise, returns the result of the division.
+Start
+1. Accept two integers (iNo1 and iNo2).
+2. Check if the second number (iNo2) is zero.
+   - If yes, return -1 as an error code.
+3. Otherwise, perform division (iNo1 / iNo2).
+4. Return the result.
+5. Display the result in main().
+Stop
 
 ```
+
