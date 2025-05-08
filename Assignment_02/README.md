@@ -3,7 +3,7 @@
 # 📂 List of Programs
 
 ### `1. question_1.c`
-**📝 Problem Statement**: Accept one number from user and print that number of * on the screen.<br>
+**📝 Problem Statement**: Accept one number from user and print that number of `*` on the screen.<br>
 **📌 Description**: Accept a number from the user and display that many `*` characters using a while loop.
 
 #### Algorithm
