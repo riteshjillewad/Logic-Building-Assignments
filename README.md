@@ -23,5 +23,5 @@ logic-building-assignments/
 --- 
 
 # 👤 Author
-- Ritesh Jillewad
-- 07-05-2025
+**Ritesh Jillewad**<br>
+07-05-2025
