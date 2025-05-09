@@ -10,11 +10,12 @@ The Assignments in this repo contains the files in following structure.
 logic-building-assignments/
 │
 ├── Assignment-01/
-│   ├── solution.c
+│   ├── question_1.c
+│   ├── question_2.c
 │   └── README.md
 │
 ├── Assignment-02/
-│   ├── solution.c
+│   ├── question_1.c
 │   └── README.md
 └── ...
 ```
