@@ -80,8 +80,6 @@ Stop
 
 ## ⏱ Time Complexity Table
 
-## ⏱ Time Complexity Table
-
 | 🔢 Program Name               | 🧮 Description                                      | 🕒 Time Complexity |
 |------------------------------|---------------------------------------------------|--------------------|
 | `question_1.c`                  | Print `$ *` pattern N times                       | `O(N)`             |
