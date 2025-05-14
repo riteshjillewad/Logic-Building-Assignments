@@ -78,6 +78,19 @@ Stop
 
 ```
 
+## ⏱ Time Complexity Table
+
+## ⏱ Time Complexity Table
+
+| 🔢 Program Name               | 🧮 Description                                      | 🕒 Time Complexity |
+|------------------------------|---------------------------------------------------|--------------------|
+| `question_1.c`                  | Print `$ *` pattern N times                       | `O(N)`             |
+| `question_2.c` (1 to N)         | Display numbers from `1` to `N`                   | `O(N)`             |
+| `question_3.c` (-N to N)        | Print number line from `-N` to `N`                | `O(N)`             |
+| `question_4.c`               | Display all odd numbers up to `N`                | `O(N)`             |
+| `question_5.c`          | Print first 5 multiples of a number               | `O(1)`             |
+
+
 # 👨‍💻 Author
 **Ritesh Jillewad** <br>
 14-05-2025
