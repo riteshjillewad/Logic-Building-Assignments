@@ -79,7 +79,7 @@ Stop
 ```
 
 # 👨‍💻 Author
-- Ritesh Jillewad
-- 14-05-2025
+**Ritesh Jillewad** <br>
+14-05-2025
 
 
